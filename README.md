@@ -47,5 +47,5 @@ b) Prompt the user to choose between "Aerosol_Optical_Thickness_550_Land", "Aero
 c) Calculate the range of valid data to be used to be displayed in the map.
 d) Based on the data seperate the quality of the aerosol.
 e) Prompt the user as to whether they want to input a slope.
-(***NOTE: the default slope used in this code is meant for demonstrative purposes only and is not meant to be used for quantitivate analyses***)
+(***NOTE: the default slope used in this code is meant for demonstrative purposes only and is not meant to be used for quantitative analyses***)
 e) Plot a map of AQI along with a color bar on the side.
